@@ -1,6 +1,6 @@
 # NS2-familiarization
 
-ECEN602 Programming Assignment 2
+ECEN602 Simulation Assignment 
 1. Flavia Ratto
 2. Eric Lloyd Robles
 
